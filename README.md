@@ -18,3 +18,5 @@ Ejecuta el script template_matching.py.
 La imagen resultante con los rectángulos resaltados se guardará como Template matching.png en el mismo directorio.
 ###Ejemplo de Resultado
 
+<span>https://raw.githubusercontent.com/deaangelg/Vision-Artificial-Teplate-Matching/master/assets/Template-matching.png</span><span>)</span>
+
