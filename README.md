@@ -17,5 +17,6 @@ Coloca la imagen de entrada (Mario.jpg) y la plantilla (Moneda.jpg) en el mismo 
 Ejecuta el script template_matching.py.
 La imagen resultante con los rectángulos resaltados se guardará como Template matching.png en el mismo directorio.
 ###Ejemplo de Resultado
-![Template-matching.png]
+
+![Template-matching.png](https://github.com/deaangelg/Vision-Artificial-Teplate-Matching/blob/6caf445d81180e8bed828780c8fde1aac31aab2f/Template%20matching.png)
 
