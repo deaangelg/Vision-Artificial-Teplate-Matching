@@ -22,4 +22,8 @@ La imagen resultante con los rectángulos resaltados se guardará como Template 
 ![Template-matching.png](https://github.com/deaangelg/Vision-Artificial-Teplate-Matching/blob/6caf445d81180e8bed828780c8fde1aac31aab2f/Template%20matching.png)
 
 
-Si quieres contruibuir al codigo sientete libre! recuerda dejar comentarios y cualquier retroalimentacion es bienvenida
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si desea realizar alguna mejora o corregir algún error, no dude en enviar una solicitud de extracción.
+
+¡Gracias por utilizar este script!
